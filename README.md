@@ -14,7 +14,7 @@ Welcome to my personal knowledge vault — a collection of blog posts across var
 - [DynamoDB Best Practices](./tech/2025-06-dynamodb-best-practices.md)
 
 ### 💰 Finance
-- [Budgeting for Beginners](./finance/2025-06-budgeting-for-beginners.md)
+- [Simple Personal Finance for Indians](./finance/2025-06-Simple-Personal-Finance-for-Indians.md)
 - [Mutual Funds vs SIP](./finance/2025-06-mutual-funds-vs-sip.md)
 
 ### 🏥 Health
