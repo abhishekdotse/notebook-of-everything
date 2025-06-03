@@ -1,5 +1,5 @@
 # 🧾 Simple Personal Finance for Indians  
-*A personal notebook to help you learn how to handle money the Indian way.*
+*A space to learn, reflect, and grow your money mindset.*
 
 ---
 
@@ -19,7 +19,7 @@ You're not alone. I felt the same — and that’s why I started this.
 
 ## 💡 Why I'm Writing This
 
-Most of us in India start thinking seriously about money **only when something goes wrong** — a job loss, hospital emergency, wedding, or loan pressure.  
+Most of us start thinking seriously about money **only when something goes wrong** — a job loss, hospital emergency, wedding, or loan pressure.  
 
 But I wanted to get ahead of those problems — and learn how to manage money step by step.
 
@@ -144,7 +144,7 @@ You can copy or print these to start managing your own money story.
 ## ✅ Final Thoughts
 
 This is just the beginning.  
-You don’t have to be rich to be good with money — just aware and consistent.  
+Start where you are, use what you have, and take it one rupee at a time. 
 
 If it helps even one person — that’s a win.
 
