@@ -1,4 +1,4 @@
-# 🧾 Simple Personal Finance for Indians  
+# 🧾 Personal Finance  
 *A space to learn, reflect, and grow your money mindset.*
 
 ---
