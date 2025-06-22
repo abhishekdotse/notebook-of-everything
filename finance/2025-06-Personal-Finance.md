@@ -61,7 +61,7 @@ I’ve tried to keep each one simple, practical, and focused on real-life use.
 
 ---
 
-## Chapter 1: Know Your Money  
+# Chapter 1: Know Your Money  
 *(Understand where you stand before you move forward)*
 
 ---
@@ -179,9 +179,98 @@ That ₹16,000? I save part of it, invest some, and keep a little aside for fun.
 
 ---
 
-## Chapter 2: Set Financial Goals  
-Make your money work for real-life goals (not random savings).  
-👉 Use the SMART method to plan short- and long-term goals.
+# Chapter 2: Set Financial Goals  
+*“If you don’t know where you're going, any road will take you there.”*
+
+---
+
+## Why I Needed This Chapter
+
+I used to save money randomly — a bit here, a bit there. But I never knew *what* I was saving for. That changed once I started writing down my goals.
+
+A **financial goal** just means giving your money a job:  
+> “What do I want to do with my money, and by when?”
+
+---
+
+## My Goal Types (With Examples)
+
+| **Goal Type**   | **Time Frame** | **Examples**                                 |
+|------------------|----------------|-----------------------------------------------|
+| Short-Term       | 0–3 years      | Emergency fund, phone upgrade, vacation       |
+| Medium-Term      | 3–7 years      | Wedding, car, higher studies                  |
+| Long-Term        | 7+ years       | Retirement, child’s education, home purchase  |
+
+---
+
+## The SMART Goal Trick
+
+I follow the **SMART method** when writing financial goals:
+
+- **S**pecific → What exactly do I want?  
+- **M**easurable → How much money is needed?  
+- **A**chievable → Can I afford it?  
+- **R**ealistic → Is it doable with my income/lifestyle?  
+- **T**ime-bound → By when?
+
+Example:  
+> “Save ₹10 lakhs for my daughter’s MBA in 10 years.”
+
+---
+
+## Quick Estimate: How Much Should I Save?
+
+Here’s the basic idea:  
+> The earlier I start, the less I have to save each month.
+
+### Rough Estimate Example:
+
+Let’s say I want ₹10 lakhs in 10 years.  
+I invest in a mutual fund expecting 10% annual returns.
+
+- One-time: Save ₹4 lakhs now  
+- OR Monthly: Save ~₹6,000 through SIP
+
+It doesn’t have to be perfect — just start planning early.
+
+---
+
+## My Goal Planning Table
+
+| **Goal**              | **Type**       | **Target ₹** | **Years Left** | **Priority** |
+|------------------------|----------------|--------------|----------------|--------------|
+| Daughter’s Education   | Long-Term      | ₹10,00,000   | 10             | High         |
+| Buy a Car              | Medium-Term    | ₹8,00,000    | 3              | Medium       |
+| Vacation               | Short-Term     | ₹2,00,000    | 2              | Low          |
+| Emergency Fund         | Short-Term     | ₹3,00,000    | 1              | High         |
+
+---
+
+## Matching Goals to Investment Options
+
+| **Goal Type**  | **Suggested Tools**                                   |
+|----------------|-------------------------------------------------------|
+| Short-Term     | FD, RD, Liquid Mutual Funds                           |
+| Medium-Term    | Debt Funds, Hybrid Funds, Gold ETFs                   |
+| Long-Term      | Equity MFs, PPF, NPS, Govt Bonds, Post Office Schemes |
+
+---
+
+## Mini Exercise (Takes 5 mins)
+
+1. Write down 3 things you want to do with your money  
+2. Label each as: Need / Want / Wish  
+3. Add an amount + time frame  
+4. Prioritize and plan how to save for them
+
+---
+
+## My Takeaways
+
+- Goals give my money purpose  
+- SMART goals = Less confusion, better action  
+- Different goals = Different saving strategies  
+- I’ll review my list once or twice a year to stay on track
 
 ---
 
@@ -189,11 +278,15 @@ Make your money work for real-life goals (not random savings).
 No fancy apps — just a simple way to plan and track where your money goes.  
 👉 Try the 50/30/20 rule + Indian-style budgeting tips.
 
+This chapter will be added soon...
+
 ---
 
 ## Chapter 4: Save Smart, Live Smart  
 Learn how to save without feeling broke.  
 👉 Build a habit, automate savings, and explore safe options like PPF, RD, and SIPs.
+
+This chapter will be added soon...
 
 ---
 
@@ -201,11 +294,15 @@ Learn how to save without feeling broke.
 Be ready for health issues, job loss, or anything unexpected.  
 👉 Set up an emergency fund + understand term and health insurance basics.
 
+This chapter will be added soon...
+
 ---
 
 ## Chapter 6: Handling Debt the Right Way  
 EMIs are okay — but only when managed right.  
 👉 Learn about good vs bad debt, how to pay off loans smartly, and avoid credit traps.
+
+This chapter will be added soon...
 
 ---
 
@@ -213,11 +310,15 @@ EMIs are okay — but only when managed right.
 Don’t let your money sleep. Let it grow.  
 👉 Start with SIPs, mutual funds, compounding, and matching investments to goals.
 
+This chapter will be added soon...
+
 ---
 
 ## Chapter 8: Retirement Simplified  
 It’s not too early to plan — even if you’re 25.  
 👉 How much you need, how to save for it, and which tools (PPF, NPS, SIP) help.
+
+This chapter will be added soon...
 
 ---
 
@@ -225,17 +326,23 @@ It’s not too early to plan — even if you’re 25.
 Your credit score matters — even if you're not borrowing right now.  
 👉 How it works, what affects it, and how to build a good one.
 
+This chapter will be added soon...
+
 ---
 
 ## Chapter 10: Indian Investment Options at a Glance  
 A simple chart of what’s out there — from FDs to stocks.  
 👉 Compare by risk, return, purpose, and tax impact.
 
+This chapter will be added soon...
+
 ---
 
 ## Chapter 11: Understanding Financial Regulators in India  
 Who makes sure banks, insurers, and brokers play fair?  
 👉 Meet RBI, SEBI, IRDAI, PFRDA — and know where to complain if needed.
+
+This chapter will be added soon...
 
 ---
 
@@ -250,6 +357,8 @@ Here’s the action part.
 - Credit health log  
 
 You can copy or print these to start managing your own money story.
+
+This chapter will be added soon...
 
 ---
 
