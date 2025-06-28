@@ -604,7 +604,7 @@ When life hits hard, insurance means you (or your family) won't face a financial
 
 ### Types of Insurance I Considered Essential
 
-#### **Term Life Insurance** (If someone depends on me)
+#### **1. Term Life Insurance** (If someone depends on me)
 
 - Cheapest way to get high cover  
 - Recommended = **10–20× annual income**  
@@ -626,7 +626,7 @@ When life hits hard, insurance means you (or your family) won't face a financial
 
 ---
 
-#### **Health Insurance**
+#### **2. Health Insurance**
 
 -  Minimum ₹5–10L cover (₹25L+ for family floater)  
 -  Even with employer cover, I got personal insurance
@@ -635,7 +635,7 @@ When life hits hard, insurance means you (or your family) won't face a financial
 
 ---
 
-#### **Personal Accident Insurance**
+#### **3. Personal Accident Insurance**
 
 - Covers death or disability from accidents  
 - Inexpensive but vital
@@ -651,7 +651,7 @@ When life hits hard, insurance means you (or your family) won't face a financial
 
 ---
 
-#### **Critical Illness Insurance**
+#### **4. Critical Illness Insurance**
 
 - Lump-sum payout on diagnosis of major illness  
 - Useful for expensive treatments (cancer, heart surgery)
@@ -667,7 +667,7 @@ When life hits hard, insurance means you (or your family) won't face a financial
 
 ---
 
-#### **Home Insurance**
+#### **5. Home Insurance**
 
 - Protects my house and contents from fire, flood, theft  
 - Low yearly premium
@@ -676,7 +676,7 @@ When life hits hard, insurance means you (or your family) won't face a financial
 
 ---
 
-#### **Motor Insurance**
+#### **6. Motor Insurance**
 
 - Mandatory in India  
 - Covers damage to my car/bike and third-party liability
