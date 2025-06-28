@@ -41,7 +41,7 @@ This notebook is where I:
 
 ## What You'll Find Here
 
-This is a collection of **12 short chapters** — covering the basics of personal finance in India.  
+This is a collection of **11 short chapters** — covering the basics of personal finance in India.  
 I’ve tried to keep each one simple, practical, and focused on real-life use.
 
 ### Table of Contents (click to jump):
