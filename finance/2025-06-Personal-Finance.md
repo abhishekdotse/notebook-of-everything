@@ -1387,9 +1387,9 @@ That’s the job of **financial regulators**. They keep our money system safe, f
 ## Where Can I Check or Complain
 
 1. **Bank Issues:** [RBI Complaints Portal](https://cms.rbi.org.in)  
-2. **Insurance Issues:** [IRDAI Official Site](https://www.irdai.gov.in)  
-3. **Stock/Mutual Fund Complaints:** [SEBI SCORES](https://scores.gov.in)  
-4. **NPS/Pension Issues:** [PFRDA Official Site](https://www.pfrda.org.in)
+2. **Insurance Issues:** [IRDAI Official Site](https://irdai.gov.in/)  
+3. **Stock/Mutual Fund Complaints:** [SEBI SCORES](https://scores.sebi.gov.in/)  
+4. **NPS/Pension Issues:** [PFRDA Official Site](https://pfrda.org.in/)
 
 ---
 
