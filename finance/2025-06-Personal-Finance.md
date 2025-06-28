@@ -1,4 +1,4 @@
-# 🧾 Personal Finance  
+# Personal Finance  
 *A space to learn, reflect, and grow your money mindset.*
 
 ---
@@ -17,7 +17,7 @@ You're not alone. I felt the same — and that’s why I started this.
 
 ---
 
-## 💡 Why I'm Writing This
+## Why I'm Writing This
 
 Most of us start thinking seriously about money **only when something goes wrong** — a job loss, hospital emergency, wedding, or loan pressure.  
 
@@ -30,7 +30,7 @@ This notebook is where I:
 
 ---
 
-## ⚠️ A Quick Note
+## A Quick Note
 
 > I’m not a finance expert.  
 > I’m not selling anything.  
@@ -39,12 +39,12 @@ This notebook is where I:
 
 ---
 
-## 📚 What You'll Find Here
+## What You'll Find Here
 
 This is a collection of **12 short chapters** — covering the basics of personal finance in India.  
 I’ve tried to keep each one simple, practical, and focused on real-life use.
 
-### 📖 Table of Contents (click to jump):
+### Table of Contents (click to jump):
 
 1. [Know Your Money](#chapter-1-know-your-money)  
 2. [Set Financial Goals](#chapter-2-set-financial-goals)  
@@ -54,10 +54,9 @@ I’ve tried to keep each one simple, practical, and focused on real-life use.
 6. [Handling Debt the Right Way](#chapter-6-handling-debt-the-right-way)  
 7. [Investing for Beginners](#chapter-7-investing-for-beginners)  
 8. [Retirement Simplified](#chapter-8-retirement-simplified)  
-9. [Credit Score & Financial Discipline](#chapter-9-credit-score--financial-discipline)  
-10. [Indian Investment Options at a Glance](#chapter-10-indian-investment-options-at-a-glance)  
-11. [Understanding Financial Regulators in India](#chapter-11-understanding-financial-regulators-in-india)  
-12. [Toolkit & DIY Templates](#chapter-12-toolkit--diy-templates)
+9. [Credit Score & Financial Discipline](#chapter-9-credit-score--financial-discipline)   
+10. [Understanding Financial Regulators in India](#chapter-10-understanding-financial-regulators-in-india)  
+11. [Toolkit & DIY Templates](#chapter-11-toolkit--diy-templates)
 
 ---
 
@@ -1289,7 +1288,7 @@ I check once a year to stay aware.
 
 ---
 
-# Chapter 11: Understanding Financial Regulators in India  
+# Chapter 10: Understanding Financial Regulators in India  
 *"Trust, but verify — that’s why regulators exist."*
 
 ---
