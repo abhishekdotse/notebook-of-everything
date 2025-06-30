@@ -109,7 +109,7 @@ That ₹16,000? I save part of it, invest some, and keep a little aside for fun.
 
 ## Summary Tips
 
-- Check your **net worth once a year**  
+- Check your **net worth once a quarter**  
 - Keep your **monthly cash flow positive**  
 - Pay off debts quickly  
 - Grow assets that increase in value — like mutual funds, gold, or real estate
