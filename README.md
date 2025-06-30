@@ -14,7 +14,7 @@ Welcome to my personal knowledge vault — a collection of blog posts across var
 - [Blog 2](./tech/2025-06-dynamodb-best-practices.md)
 
 ### 2. Finance
-- [Personal Finance](./finance/2025-06-Personal-Finance.md)
+- [Personal Finance](./finance/notebook/chapter-0-personal-finance-06-2025.md)
 - [Blog 2](./finance/2025-06-mutual-funds-vs-sip.md)
 
 ### 3. Health
