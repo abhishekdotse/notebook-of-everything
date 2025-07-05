@@ -56,6 +56,6 @@ I’ve tried to keep each one simple, practical, and focused on real-life use.
 8. [Retirement Simplified](./chapter-8-retirement-simplified-06-2025.md)  
 9. [Credit Score & Financial Discipline](./chapter-9-credit-score-financial-discipline-06-2025.md)   
 10. [Understanding Financial Regulators in India](./chapter-10-understanding-financial-regulators-in-india-06-2025.md)  
-11. [Toolkit & DIY Templates](#chapter-11-toolkit--diy-templates)
+11. [Thank You](./thank-you.md)
 
 ---
