@@ -15,7 +15,7 @@ Welcome to my personal knowledge vault — a collection of blog posts across var
 
 ### 2. Finance
 - [Personal Finance](./finance/notebook/chapter-0-personal-finance-06-2025.md)
-- [Blog 2](./finance/2025-06-mutual-funds-vs-sip.md)
+- [FD vs Liquid Funds: How I Park My Short-Term Money](./finance-fd-vs-liquid-funds:-how-i-park-my-short-term-money-07-2025.md)
 
 ### 3. Health
 - [Blog 1](./health/2025-06-balanced-diet-tips.md)
