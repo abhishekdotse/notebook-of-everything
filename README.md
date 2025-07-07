@@ -15,7 +15,7 @@ Welcome to my personal knowledge vault — a collection of blog posts across var
 
 ### 2. Finance
 - [Personal Finance](./finance/notebook/chapter-0-personal-finance-06-2025.md)
-- [FD vs Liquid Funds: How I Park My Short-Term Money](./finance/finance-fd-vs-liquid-funds:-how-i-park-my-short-term-money-07-2025.md)
+- [Smart Places for Your Short-Term Savings](./finance/smart-places-for-your-short-term-savings-07-2025.md)
 - [RBI Retail Direct: Invest in Govt Bonds Easily](./finance/rbi-retail-direct:-invest-in-govt-bonds-easily-07-2025.md)
 
 ### 3. Health
